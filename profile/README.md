@@ -6,18 +6,9 @@
 Want to join us and participate in the life of this francophone community?
 [Join us !](https://discord.gg/fortnitefrofficiel)
 
-## You are in the Staff Team ?
-Please contact us in Discord and give your Github name.
-
-:unlock: After that, you can find our repositories here:
-
-* [Chip](https://github.com/Official-Fortnite-FR-Discord/Chip) (Moderation bot)
-* [Boogie](https://github.com/Official-Fortnite-FR-Discord/Boogie) (Discord bot with Fortnite related stuff)
-* [Staff Assistance](https://github.com/Official-Fortnite-FR-Discord/Modmail) (Our ticket system)
-
 ## Any issues with our bots ?
 :ticket: You can contact a Staff Discord via our Staff Support bot by contacting them in DM.
-This will automatically create a ticket or you can explain the bug and attach if needed screenshots or other...
+This will automatically create a ticket where you can explain the bug and attach if needed screenshots or other...
 
 
 ## Usefull Links
